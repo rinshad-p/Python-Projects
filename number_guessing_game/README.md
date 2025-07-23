@@ -6,7 +6,7 @@ Test your luck and logic by guessing the correct number within a limited number 
 ---
 
 ## 📸 Screenshots  
-![Screenshot](number_guessing_game/screenshot.png)  
+![Screenshot](screenshot.png)  
 
 
 ## 📜 How to Play
