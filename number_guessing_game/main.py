@@ -50,7 +50,6 @@ def calculate_score(result):
         
 #Main Function
 def main():
-    print(type(total_score))
     while True:
         game_instruction = """
     Welcome to the Number Guessing Game!
