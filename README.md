@@ -19,10 +19,10 @@ This repository is a personal **learning log** and **project showcase** for my P
 
 ## 🗂️ Programs & Projects
 
-| No. | Program                | Description                                         | Status      |
-|-----|------------------------|-----------------------------------------------------|-------------|
-| 1   | Number Guessing Game   | Interactive CLI game: guess a randomly chosen number|  🔄 Ongoing |
-| ... | ...                    | More programs will be added as I learn              |             |
+| No. | Program                | Description                                         | Status       |
+|-----|------------------------|-----------------------------------------------------|--------------|
+| 1   | Number Guessing Game   | Interactive CLI game: guess a randomly chosen number| ✅ Completed |
+| ... | ...                    | More programs will be added as I learn              |              |
 
 ---
 
